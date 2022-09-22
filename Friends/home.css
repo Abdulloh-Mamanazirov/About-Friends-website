@@ -1,0 +1,130 @@
+.bg {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #003559;
+}
+
+.h1 {
+  color: #cae0f5;
+  font-size: 50px;
+}
+
+.table {
+  box-shadow: #c4e7ff;
+  margin: auto;
+  border-radius: 17px;
+  border-style: dashed;
+  background-color: #0353a4;
+  padding: 50px;
+}
+
+.tommy {
+  border-radius: 17px;
+  background-color: #b9d6f2;
+
+  border-style: solid;
+}
+.george {
+  border-style: solid;
+  border-radius: 17px;
+  background-color: #b9d6f2;
+}
+.abraham {
+  border-style: solid;
+  border-radius: 17px;
+  background-color: #b9d6f2;
+}
+.adam {
+  border-style: solid;
+  border-radius: 17px;
+  background-color: #b9d6f2;
+}
+.jack {
+  border-style: solid;
+  border-radius: 17px;
+  background-color: #b9d6f2;
+}
+
+.t {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.g {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.ab {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.ad {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.j {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.t1 {
+  margin: 0 10%;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(127, 223, 255);
+}
+
+.g1 {
+  margin: 0 10%;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(127, 223, 255);
+}
+
+.ab1 {
+  margin: 0 10%;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(127, 223, 255);
+}
+
+.ad1 {
+  margin: 0 10%;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(127, 223, 255);
+}
+
+.j1 {
+  margin: 0 10%;
+  border-radius: 20px;
+  padding: 20px;
+  background-color: rgb(127, 223, 255);
+}
+
+.jpg1 {
+  border-radius: 20px /* 0 0 20px*/;
+  width: 200px;
+}
+
+.jpg2 {
+  border-radius: 20px;
+  width: 200px;
+}
+
+.jpg3 {
+  border-radius: 20px;
+  width: 200px;
+}
+
+.jpg4 {
+  border-radius: 20px;
+  width: 200px;
+}
+
+.jpg5 {
+  border-radius: 20px;
+  width: 200px;
+}
